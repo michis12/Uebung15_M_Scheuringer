@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(243, 243, 194);
+    font-size: 150%
+
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 15%;
+}
+p{
+    margin: 5%;
+}
